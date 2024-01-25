@@ -1,6 +1,6 @@
 ###  Hi (*╹▽╹*) / I am Curzsu !
 
-![Curzsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curzsu&show_icons=true&theme=radical)<img src="https://i0.imgs.ovh/2024/01/25/x1h03.gif" width="26%">
+![Curzsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curzsu&show_icons=true&theme=radical)<img src="https://i0.imgs.ovh/2024/01/25/x1h03.gif" width="25.5%">
 <!--
 **Curzsu/Curzsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
