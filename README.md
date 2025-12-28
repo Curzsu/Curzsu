@@ -1,6 +1,5 @@
 ###  Hi (*╹▽╹*) / I am Curzsu !
 
-![Curzsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curzsu&show_icons=true&theme=radical)<img src="https://i0.imgs.ovh/2024/01/25/x1h03.gif" width="25.5%">
 
 ![](https://raw.githubusercontent.com/Curzsu/Curzsu/output/github-contribution-grid-snake-dark.svg)
 
