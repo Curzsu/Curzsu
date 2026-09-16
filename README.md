@@ -1,5 +1,12 @@
-###  Hi (*╹▽╹*) / I am Curzsu !
+<h1 align="center"> Hi (*╹▽╹*) / I am Curzsu !</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Backend+Developer;Building+AI-Native+Applications" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,elasticsearch,python,docker,git" />
+</p>
 
 ![](https://raw.githubusercontent.com/Curzsu/Curzsu/output/github-contribution-grid-snake-dark.svg)
 
