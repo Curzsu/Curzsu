@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi%20(*╹▽╹*)%20%2F%20I%20am%20Curzsu%20!&fontSize=38&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=185&section=header&text=Hi%20(*╹▽╹*)%20%2F%20I%20am%20Curzsu%20!&fontSize=38&animation=fadeIn" />
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Backend+Developer;Building+AI-Native+Applications" />
 
