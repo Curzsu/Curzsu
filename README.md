@@ -1,6 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=185&section=header&text=Hi%20(*╹▽╹*)%20%2F%20I%20am%20Curzsu%20!&fontSize=38&animation=fadeIn" />
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&size=30&pause=1000&center=true&vCenter=true&width=700&color=8E44AD&lines=AI+%26+Backend+Developer;Building+AI-Native+Applications" />
+<!-- 第二行动态文字 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fredoka&amp;size=24&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=700&amp;color=6CB4EE&amp;lines=AI+%26+Backend+Developer%3BBuilding+AI-Native+Applications" />
+</p>
 
 <br/>
 
