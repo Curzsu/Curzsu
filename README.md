@@ -6,7 +6,7 @@
 </p>
 
 <br/>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,kafka,elasticsearch,python,docker,git" />
 </p>
 
