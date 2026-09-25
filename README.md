@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=186&section=header&text=Hi%20(*╹▽╹*)%20%2F%20I%20am%20Curzsu%20!&fontSize=38&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=184&section=header&text=Hi%20(*╹▽╹*)%20%2F%20I%20am%20Curzsu%20!&fontSize=38&animation=fadeIn" />
 <p align="center">
 <!-- 第二行动态文字 -->
 <p align="center">
